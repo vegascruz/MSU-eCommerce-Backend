@@ -66,3 +66,10 @@
   ### Email: vegascruz5@gmail.com
 
   ## Images
+  
+![DataCreatedExample](https://user-images.githubusercontent.com/95984881/210290063-9524b326-a0c9-47ca-82b0-b2e3d47908ef.png)
+![DataDeletedExample](https://user-images.githubusercontent.com/95984881/210290065-b8d38d1e-ca38-4df4-a892-fac0af75c805.png)
+![DataReturnedExample](https://user-images.githubusercontent.com/95984881/210290066-b6990484-d336-4e84-9d14-1e56fdd36789.png)
+![DataUpdatedExample](https://user-images.githubusercontent.com/95984881/210290067-01a50090-0175-4b48-b594-7177a2f180e7.png)
+![ServerRunningInTerminal](https://user-images.githubusercontent.com/95984881/210290068-a902bb85-41f7-4133-822c-8c6849373ecb.png)
+![DataByIDExample](https://user-images.githubusercontent.com/95984881/210290070-14114439-a651-4ec1-9cec-4845c852ecf6.png)
