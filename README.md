@@ -37,7 +37,7 @@
   It is good starter code for an up and coming company. Can use this as a model for a website with a database.
 
   ## Things Learned
-  I learned a lot! I love how simple SQL is and especially useful WorkBench is. I already understand Inquirer, so that wasn't all bad. Lastly, console.table was a fun pacakge to layout the data. 
+  I learned a lot... I love how easy Insomnia was to use and understand. Sequelize was very nice package to work with the data, and I learned how to use dotenv variables, which is kinda neat. 
 
   ## Technology Used
   * VS.Code
